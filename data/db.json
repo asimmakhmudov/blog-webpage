@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Webcams and Microphones",
+      "body": "Web camera and microphone — Let’s talk about this devices. Although the webcam and microphone are not very important in computer use, both are important devices. It is important that both devices are of good quality. But no matter how good your camera is, if you have a problem with your microphone, people will stop listening and watching you. Webcams vary in quality. The highest quality at the moment is 8k. Although the video quality is 8k, it is not possible to view this video or image on any monitor. To view images of this quality, you need a monitor with high quality. There are 144p, 360p, 480p, 720p, 1080p, 60fps, 4k, 8k types of cameras according to the image quality. Even if your speech is fluent, if you have a problem with your microphone, it will ruin everything. The microphone converts the sound waves generated while speaking into electrical signals. If you are in a meeting, these electrical signals are transformed into sound waves through the speaker of the other party’s computer, allowing easy communication.",
+      "author": "asim",
+      "id": 1
+    },
+    {
+      "title": "Monitors",
+      "body": "The monitor is one of the most basic equipment. Computer monitors are extremely important for computers, without this part your computer would be completely useless. Although I am a laptop user, I use a monitor even if I am not a desktop computer user. But My monitor is not recommended because of its refresh rate and inch. I am Computer engineer and if you computer engineer that time you can understand me why my major is required it. By the way I create some websites and also when I coding web page design that time the second monitor is very useful for me. According to statistics, most people have an obsession with symmetry. Most people using 2 or more monitors get the same size monitor. If you ask any developer is it useful to use a second monitor? He or she absolutely answered yes. Because developers use one for coding and the other for watch output of code. By the way, most developers use monitors vertically. The reason is comfortable for coding. The most important thing for monitor is refresh rate. Recommended refresh rate is 60hz and less than 60hz is not recommended. It is influence our health and productivity. Monitors are divided into 60hz, 75hz, 120hz, 144hz, 240hz and maximum 360hz.",
+      "author": "asim",
+      "id": 2
+    },
+    {
+      "title": "Mouse",
+      "body": "Mouse – The first mouse was used in 1968. The mouse is a very important device to perform some operations on the computer. If you use a desktop computer, it is important that you buy a mouse, but not if you use a laptop. You can easily use your computer with the touchpad on your laptop. All laptops have touchpad but in my opinion it’s not comfortable. I recommended mouse all laptop user. There are two types of mice: wireless and wired mice. Wireless mice connect to the device both via bluetooth and mini USB wireless adapter. The quality of mice depends on the DPI and the material from which they are made. DPI mean is dots per linear inch. In simple terms, it is sensitive. For example, when playing a game, high DPI gives us a great advantage. Some people think that wireless mice have a weak DPI, but this is not true. I also use wireless mouse. I don’t like many cables everywhere. That is why I didn’t use a wired mouse. I prefer wireless equipment. Wireless equipment is very minimalist but one problem their power source. Since the wireless mouse I use has a high DPI value, I have to change the batteries it uses as a power source frequently. Mainly the DPI of gaming mice is higher than normal. those for home and office are normal DPIs. Most gaming mice have RGB, high DPI. Most importantly, RGB lights require energy, so this type of mouse is mostly wired.\n#asimmahmudov #learnwithme",
+      "author": "asim",
+      "id": 3
+    }
+  ]
+}
